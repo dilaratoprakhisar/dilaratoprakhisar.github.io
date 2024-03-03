@@ -7,3 +7,4 @@ redirect_from:
   - /about.html
 ---
 
+I am Dilara, a PhD student at COSIC, KU Leuven in Belgium. My current research is focused on fault/combined attacks. 
